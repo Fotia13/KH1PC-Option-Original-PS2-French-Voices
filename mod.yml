@@ -1,0 +1,69 @@
+title: French Option Original PS2 Voices Patch
+originalAuthor: Fotia
+description: Remet que les répliques manquantes d'Oogie Boogie et Génie et 6 répliques de Peter Pan, 1 de Léon et 2 de Mushu de la version ps2 car dans le patch principal je les remplace pour une meilleure qualité et la continuité vocale.
+dependencies: 
+assets:
+- name: remastered/xa_nm_3000.mdls/bo00at00.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xa_nm_3000.mdls/bo00at00.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00da01.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xa_nm_3000.mdls/bo00da01.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00da02.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xa_nm_3000.mdls/bo00da02.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00da04.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xa_nm_3000.mdls/bo00da04.win32.scd
+- name: remastered/xa_nm_3000.mdls/bo00ex01.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xa_nm_3000.mdls/bo00ex01.win32.scd
+- name: remastered/xs_genie.dat/ge01ma02.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xs_genie.dat/ge01ma02.win32.scd
+- name: remastered/xs_genie.dat/ge01ma03-2.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xs_genie.dat/ge01ma03-2.win32.scd
+- name: remastered/xs_genie.dat/ge01ma04.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xs_genie.dat/ge01ma04.win32.scd
+- name: remastered/xs_genie.dat/ge01ma05.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xs_genie.dat/ge01ma05.win32.scd
+- name: remastered/xs_genie.dat/ge01ma06.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xs_genie.dat/ge01ma06.win32.scd
+- name: remastered/xs_genie.dat/ge01ma12.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xs_genie.dat/ge01ma12.win32.scd
+- name: remastered/xs_mushu.dat/mu00ex00.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xs_mushu.dat/mu00ex00.win32.scd
+- name: remastered/xs_mushu.dat/mu00ex01.win32.scd
+  method: copy
+  source:
+  - name: kh1_fifth/remastered/xs_mushu.dat/mu00ex01.win32.scd
+- name: remastered/voice/peterpan.vsb/peterpan.win32.scd
+  method: copy
+  source:
+  - name: kh1_fourth/remastered/voice/peterpan.vsb/peterpan.win32.scd
+- name: remastered/voice/event/nm/nm_023.vset/nm2301bo.win32.scd
+  method: copy
+  source:
+  - name: kh1_fourth/remastered/voice/event/nm/nm_023.vset/nm2301bo.win32.scd
+- name: remastered/xa_ex_1030.mdls/le00at04.win32.scd
+  method: copy
+  source:
+  - name: kh1_fourth/remastered/xa_ex_1030.mdls/le00at04.win32.scd
