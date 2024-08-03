@@ -1,6 +1,6 @@
-title: French Option Original PS2 Voices Patch
+title: French Optional Original PS2 Voices Patch
 originalAuthor: Fotia
-description: Remet que les répliques manquantes d'Oogie Boogie et Génie et 6 répliques de Peter Pan, 1 de Léon et 2 de Mushu de la version ps2 car dans le patch principal je les remplace pour une meilleure qualité et la continuité vocale.
+description: Remet que les répliques manquantes d'Oogie Boogie et Génie et 6 répliques de Peter Pan, 1 de Léon et 2 de Mushu de la version ps2 car dans le patch principal je les remplace pour une meilleure qualité et la continuité vocale. N'oubliez pas de mettre ce patch au dessus de French Voices Patch !
 dependencies: 
 assets:
 - name: remastered/xa_nm_3000.mdls/bo00at00.win32.scd
