@@ -4,7 +4,7 @@
 
 ## Français
 ### Installation
-Ce patch est en option du KH1PC-French-Voices, si vous prenez que KH1PC-Option-Original-PS2-French-Voices quasi toutes les voix seront en anglais sauf Peter Pan et Léon.
+Ce patch est en option du KH1PC-French-Voices, si vous prenez que KH1PC-Option-Original-PS2-French-Voices quasi toutes les voix seront en anglais sauf Peter Pan.
 
 Ensuite :
  Dans le Mods Manager d'[OpenKH](https://github.com/OpenKH/OpenKh/releases/latest)
@@ -23,7 +23,7 @@ Si vous avez un problème pour lancer les applications :
  
 ## English
 ### Installation
-This patch is an option of the KH1PC-French-Voices, if you install KH1PC-Option-Original-PS2-French-Voices alone mostly every voices will just stay in english apart of Peter Pan and Leon.
+This patch is an option of the KH1PC-French-Voices, if you install KH1PC-Option-Original-PS2-French-Voices alone mostly every voices will just stay in english apart of Peter Pan.
 
 After that do the following:
  In [OpenKH](https://github.com/OpenKH/OpenKh/releases/latest) Mods Manager

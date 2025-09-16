@@ -1,6 +1,6 @@
 title: French Optional Original PS2 Voices Patch
 originalAuthor: Fotia13
-description: Remet que les répliques manquantes d'Oogie Boogie et Génie, 6 répliques de Peter Pan et 1 de Léon de la version ps2 car dans le patch principal je les remplace pour une meilleure qualité et la continuité vocale. N'oubliez pas de mettre ce patch au dessus de French Voices Patch !
+description: Remet que les répliques manquantes d'Oogie Boogie et Génie, 5 répliques de Peter Pan de la version ps2 car dans le patch principal je les remplace pour une meilleure qualité et la continuité vocale. N'oubliez pas de mettre ce patch au dessus de French Voices Patch !
 dependencies: 
 assets:
 - name: remastered/xa_nm_3000.mdls/bo00at00.win32.scd
@@ -47,14 +47,6 @@ assets:
   method: copy
   source:
   - name: kh1_fifth/remastered/xs_genie.dat/ge01ma12.win32.scd
-- name: remastered/xs_mushu.dat/mu00ex00.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xs_mushu.dat/mu00ex00.win32.scd
-- name: remastered/xs_mushu.dat/mu00ex01.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xs_mushu.dat/mu00ex01.win32.scd
 - name: remastered/voice/peterpan.vsb/peterpan.win32.scd
   method: copy
   source:
@@ -63,7 +55,3 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/nm/nm_023.vset/nm2301bo.win32.scd
-- name: remastered/xa_ex_1030.mdls/le00at04.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/xa_ex_1030.mdls/le00at04.win32.scd
