@@ -1,4 +1,4 @@
-# KH1PC-Option-Original-PS2-French-Voices
+# KH1PC-French-Option-Originels-PS2
 
 [![Démo du patch optionnel voix OG pour Kingdom Hearts PC](https://img.youtube.com/vi/3_BoDyVT35Q/0.jpg)](https://www.youtube.com/watch?v=3_BoDyVT35Q "Démo du patch optionnel voix OG pour Kingdom Hearts PC")
 
