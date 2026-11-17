@@ -1,6 +1,6 @@
-title: French Optional Original PS2 Voices Patch
+title: Français Option Originels PS2
 originalAuthor: Fotia13
-description: Remet que les répliques manquantes d'Oogie Boogie et Génie, 5 répliques de Peter Pan de la version ps2 car dans le patch principal je les remplace pour une meilleure qualité et la continuité vocale. N'oubliez pas de mettre ce patch au dessus de French Voices Patch ! Patching Compatible.
+description: Remet que les répliques d'Oogie Boogie, Génie et 5 répliques de Peter Pan de la version ps2 car dans le patch principal je les remplace pour une meilleure qualité et la continuité vocale. Certains textes non adaptés pour être plus comme sur PS2. N'oubliez pas de mettre ce patch au dessus de French Voices Patch ! Patching Compatible.
 dependencies: 
 assets:
 - name: remastered/xa_nm_3000.mdls/bo00at00.win32.scd
@@ -69,6 +69,18 @@ assets:
   package: kh1_fifth
   source:
   - name: kh1_fifth/remastered/xs_genie.dat/ge01ma12.win32.scd
+- name: remastered/di01.ard/FR_di01_ard3e8.binl
+  method: copy
+  platform: pc
+  package: kh1_first
+  source:
+  - name: kh1_first/remastered/di01.ard/FR_di01_ard3e8.binl
+- name: remastered/di01.ard/FR_di01_ard3ec.binl
+  method: copy
+  platform: pc
+  package: kh1_first
+  source:
+  - name: kh1_first/remastered/di01.ard/FR_di01_ard3ec.binl
 - name: remastered/voice/peterpan.vsb/peterpan.win32.scd
   method: copy
   platform: pc
@@ -81,3 +93,15 @@ assets:
   package: kh1_fourth
   source:
   - name: kh1_fourth/remastered/voice/event/nm/nm_023.vset/nm2301bo.win32.scd
+- name: remastered/nm09.ard/FR_nm09_ard3f7.binl
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: kh1_third/remastered/nm09.ard/FR_nm09_ard3f7.binl
+- name: remastered/pc13.ard/FR_pc13_ard3ea.binl
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: kh1_third/remastered/pc13.ard/FR_pc13_ard3ea.binl
